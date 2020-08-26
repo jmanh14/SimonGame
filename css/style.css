@@ -1,0 +1,44 @@
+.toggle {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.button {
+    border-radius: 50% !important;
+    font-size: 1.5em;
+    background-color: lightgrey;
+} 
+
+
+#switches {
+    position: absolute;
+    font-family: 'Orbitron', cursive;
+    margin-left: 26px;
+    margin-right: 110px;
+}
+
+.text1 {
+    position: absolute;
+    font-family: 'Orbitron', cursive;
+    margin-left: 19px;
+    margin-right: 142px;
+}
+
+.text2 {
+    position: absolute;
+    font-family: 'Orbitron', cursive;
+    margin-left: 83px;
+    margin-right: 197px;
+}
+
+.text1 span:last-child {
+    padding-left: 70px;
+}
+
+#title {
+    font-family: 'Orbitron', cursive;
+    position: absolute;
+    font-size: 40px;
+    margin-left: 35px;
+    margin-top: 40px;
+}
